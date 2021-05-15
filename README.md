@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jomy
+- 👋 I’m Jomy
 - 👀 I’m interested in web developing, car detailing, photography, reading books about fiction, finance and self-help
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
